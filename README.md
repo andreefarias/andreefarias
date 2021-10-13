@@ -1,7 +1,5 @@
 # André Farias
 
-I'm always trying to do the best.
-
 #### 💙 Quality Assurance Intern at **Liferay**
 #### 🎓 Computer Engineering Student
 #### ⚡ Testing and retesting
