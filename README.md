@@ -1,5 +1,5 @@
 # André Farias
 
 #### ✔️ Learning and growing!
-#### 💙 Associate QA Engineer at **Liferay**
+#### 💙 QA Engineer
 #### 🖥️ Computer Engineering Student
