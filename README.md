@@ -30,3 +30,10 @@
 ##
 #### Others:
 <img align="center" alt="Docker" height="30" width="40" src="https://www.svgrepo.com/show/452192/docker.svg"> <img align="center" alt="Postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg"> <img align="center" alt="API" height="30" width="40" src="https://www.svgrepo.com/show/375531/api.svg"> <img align="center" alt="Jenkins" height="30" width="40" src="https://www.svgrepo.com/show/373699/jenkins.svg"> <img align="center" alt="Linux" height="30" width="40" src="https://www.svgrepo.com/show/354004/linux-tux.svg"> <img align="center" alt="Salesforce" height="30" width="40" src="https://www.svgrepo.com/show/354306/salesforce.svg">
+
+##
+#### Contacts:
+
+<a href="https://www.linkedin.com/in/andreefarias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:andre_luiz_08@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/andreefarias_" target="_blank" rel="ext"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="ext"></a>
