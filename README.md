@@ -1,13 +1,8 @@
 ### Hi! 👋
-#### I'm André Farias, a QA Engineer dedicated to ensuring the best quality.
-
-#
-#### Soft-skills:
-* ⭐ Adaptability
-* 🔍 Attention to detail
-* 💬 Interpersonal Skills
-* ✔️ Organization
-* 📅 Responsibility
+#### I'm André Farias, a profissional dedicated to ensuring the best quality.
+###### 🌎 From Pernambuco - Brazil
+###### 🎓 Computer Engineering Student
+###### 💼 QA Engineer
   
 #
 #### Programming languages:
