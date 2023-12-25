@@ -3,7 +3,7 @@
 ###### 🌎 From Pernambuco - Brazil
 ###### 🎓 Computer Engineering Student
 ###### 💼 QA Engineer
-###### 📁 Portfolio: [BR](https://github.com/andreefarias/PortfolioQA-BR) | [EN](https://github.com/andreefarias/PortfolioQA-EN)
+###### 📁 Portfolio: [PT](https://github.com/andreefarias/PortfolioQA-BR) | [EN](https://github.com/andreefarias/PortfolioQA-EN)
   
 #
 #### Programming languages:
