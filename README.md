@@ -7,7 +7,7 @@
   
 #
 #### Programming languages:
-<img align="center" title="Java" height="30" width="40" src="https://www.svgrepo.com/show/349418/java.svg"> <img align="center" title="JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg"> <img align="center" title="Python" height="30" width="40" src="https://www.svgrepo.com/show/349485/python.svg">
+<img align="center" title="Java" height="30" width="40" src="https://www.svgrepo.com/show/349418/java.svg"> <img align="center" title="JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
 
 #
 #### Frameworks:
@@ -15,7 +15,7 @@
 
 #
 #### Databases:
-<img align="center" title="MySQL" height="30" width="40" src="https://www.svgrepo.com/show/439233/mysql.svg"> <img align="center" title="OracleSQL" height="30" width="40" src="https://www.svgrepo.com/show/303678/oracle-2-logo.svg"> <img align="center" title="PostgreSQL" height="30" width="40" src="https://www.svgrepo.com/show/439268/postgresql.svg"> <img align="center" title="DBeaver" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg"> 
+<img align="center" title="MySQL" height="30" width="40" src="https://www.svgrepo.com/show/439233/mysql.svg"> <img align="center" title="DBeaver" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg"> 
 
 #
 #### Versions Control:
