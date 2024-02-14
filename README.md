@@ -3,7 +3,7 @@
 ###### 🌎 From Pernambuco - Brazil
 ###### 🎓 Computer Engineering Student
 ###### 💼 QA Engineer
-###### 📁 [Portfolio](https://andrefarias.my.canva.site/)
+###### 📁 [Portfolio](https://andrefarias.my.canva.site/pt)
   
 #
 #### Programming languages:
