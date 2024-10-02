@@ -15,9 +15,3 @@
 #
 #### Outras ferramentas:
 <img align="center" title="Docker" height="30" width="40" src="https://www.svgrepo.com/show/452192/docker.svg"> <img align="center" title="VSCode" height="30" width="40" src="https://www.svgrepo.com/show/374171/vscode.svg"> <img align="center" title="Eclipse" height="30" width="40" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg">  <img align="center" title="PyCharm" height="30" width="40" src="https://www.svgrepo.com/show/354237/pycharm.svg"> <img align="center" title="Linux" height="30" width="40" src="https://www.svgrepo.com/show/354004/linux-tux.svg"> <img align="center" title="Salesforce" height="30" width="40" src="https://www.svgrepo.com/show/354306/salesforce.svg">
-
-#
-#### Contatos:
-<a href="https://www.linkedin.com/in/andreefarias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:andre_luiz_08@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/andreefarias_" target="_blank" rel="ext"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="ext"></a>
