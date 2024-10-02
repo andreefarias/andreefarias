@@ -1,5 +1,5 @@
 ### Olá! 👋
-#### Sou André Farias, atuo como analista de testes e qualidade (QA).
+#### Sou André Farias, atuo como Analista de Testes e Qualidade (QA).
 ###### 🌎 Recife, Pernambuco - Brasil
 ###### 🎓 Engenheiro da Computação
 ###### 📁 [Portfolio](https://andrefarias.my.canva.site/pt)
