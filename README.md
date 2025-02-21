@@ -5,7 +5,7 @@
 ###### 📁 [Portfolio](https://andrefarias.my.canva.site/pt)
   
 #
-#### Progamação:
+#### Programação:
 <img align="center" title="Java" height="30" width="40" src="https://www.svgrepo.com/show/184143/java.svg"> <img align="center" title="JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/353925/javascript.svg"> <img align="center" title="HTML" height="30" width="40" src="https://www.svgrepo.com/show/226072/html-code.svg"> <img align="center" title="CSS" height="30" width="40" src="https://www.svgrepo.com/show/226144/css.svg">
 
 #
