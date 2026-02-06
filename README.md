@@ -1,8 +1,8 @@
-### Olá! 👋
-#### Sou André Farias, atuo como Analista de Testes e Qualidade (QA).
-###### 🌎 Recife, Pernambuco - Brasil
-###### 🎓 Engenheiro da Computação
-###### 📁 [Portfolio](https://andrefarias.my.canva.site/pt)
+### Hi there! 👋
+#### I'm André Farias and I work as a QA Engineer.
+###### 🌎 Recife, Pernambuco - Brazil
+###### 🎓 Computer Engineer
+###### 📁 [Portfolio](https://andrefarias.my.canva.site/en)
   
 #
 #### Programação:
